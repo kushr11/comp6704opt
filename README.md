@@ -14,6 +14,7 @@ The folder should like this:
     ------n01484850
         ------JPEG
         ------JPEG
+```
 
 ## Run
 ```python
